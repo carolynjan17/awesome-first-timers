@@ -158,4 +158,9 @@
    Place: Bhubaneswar, India  
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
+   
+ - Name: Carolyn Hipkins  
+   Place: Washington, DC, USA  
+   Bio: Web-UX Designer looking for first job  
+   Github [Carolyn Hipkins](https://github.com/carolynjan17)  
   
